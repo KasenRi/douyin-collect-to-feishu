@@ -1,0 +1,12 @@
+.env
+*.env
+!.env.example
+cookies*
+*cookie*
+*.mp4
+*.mp3
+runs/
+tmp/
+__pycache__/
+*.pyc
+profile/
